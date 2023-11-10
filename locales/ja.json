@@ -1,5 +1,5 @@
 {
-	"title": "デジタルワールドオーディオ圧縮",
+	"title": "デジタルワールド：オーディオ圧縮",
 	"addFileTip": "サポート形式：",
 	"addFileBtn": "ファイルを追加",
 	"addDirBtn": "フォルダを追加",
@@ -24,7 +24,7 @@
 	"bitRateTip4": "ビットレートは整数でなければなりません",
 	"outDir": "出力ディレクトリ",
 	"compressStart": "圧縮開始",
-	"compressStop": "圧縮を停止",
+	"compressStop": "圧縮の停止",
   
 	"support": "サポート",
 	"digitalWorld": "デジタルワールド",
