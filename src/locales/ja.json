@@ -1,0 +1,67 @@
+{
+  "common": {
+    "title": "デジタルワールド：オーディオ圧縮",
+
+    "audioCut": "オーディオクリップ",
+    "audioMerge": "オーディオマージ",
+    "audioCompress": "オーディオ圧縮",
+    "audioFormatConversion": "オーディオフォーマット変換",
+    "videoToAudio": "ビデオ音声変換",
+    "language": "言語",
+    "support": "テクニカルサポート",
+    "donata": "寄付する",
+
+    "addFileTip": "サポート形式：",
+    "addAudioBtn": "オーディオの追加",
+    "addDirBtn": "フォルダを追加",
+    "addDirTip": "選択したフォルダとサブフォルダ内のすべてのオーディオファイルが見つかります",
+    "clearFile": "クリアランス",
+
+    "sourcePath": "元のパス",
+    "sourceSize": "元のサイズ",
+    "sourceBitRate": "いちじビットりつ",
+    "newPath": "新しいパス",
+    "newSize": "新しいサイズ",
+    "newBitRate": "新規ビットレート",
+    "status": "ステータス",
+
+    "audioTip1": "値が大きいほどオーディオ品質は良くなりますが、ボリュームも大きくなります",
+    "taskThreadsNumber": "タスクスレッド数",
+    "taskThreadsNumberTip": "タスクスレッド数が大きいほどCUPとメモリが消費されるため、一般的なコンピュータでは1～3を選択することを推奨しています",
+    "audioBitrate": "オーディオビットレート",
+    "useSourceBitrate": "ソースビットレートの使用",
+    "customBitrate": "カスタムビットレート",
+    "customMaxBitrate": "カスタム最大ビットレート",
+    "customBitrateTip1": "設定しない場合はソースビットレートが使用されます。",
+    "customBitrateTip2": "オーディオの元のビットレートが設定されたビットレートよりも小さい場合は、オーディオの元のビットレートが使用されます",
+    "audioSampleRate": "オーディオサンプリングレート",
+    "useSourceSampleRate": "ソースサンプリングレートの使用",
+    "audioChannel": "オーディオチャネル",
+    "useSourceChannel": "ソースチャネルの使用",
+    "mono": "1チャネルモノラル",
+    "stereo": "2チャネルステレオ",
+    "mustBeInt": "整数でなければなりません",
+    "outDir": "オーディオ出力ディレクトリ",
+    "selectOutputDirTip": "出力ディレクトリを選択してください",
+    "selectTip": "選択してください",
+
+    "tip": "ヒント",
+    "ok": "を選択して、",
+    "cancel": "キャンセル",
+    "systemError": "プログラムエラー"
+  },
+
+  "audioCompress": {
+    "tip": "バッチ圧縮オーディオ",
+
+    "compressSetting": "圧縮設定",
+    "compressStart": "圧縮開始",
+    "compressStop": "圧縮を停止",
+
+    "unCompress": "圧縮対象",
+    "compressIng": "圧縮中",
+    "compressSuccess": "成功",
+    "compressFail": "に失敗",
+    "compressOver": "圧縮完了"
+  }
+}

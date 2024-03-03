@@ -1,0 +1,67 @@
+{
+  "common": {
+    "title": "Digital värld: ljudkomprimering",
+
+    "audioCut": "Ljudklippning",
+    "audioMerge": "Ljudkombination",
+    "audioCompress": "Ljudkomprimering",
+    "audioFormatConversion": "Konvertering av ljudformat",
+    "videoToAudio": "Video till ljud",
+    "language": "språk",
+    "support": "tekniskt stöd",
+    "donata": "donation",
+
+    "addFileTip": "Format som stöds:",
+    "addAudioBtn": "Lägg till ljud",
+    "addDirBtn": "lägg till kataloger",
+    "addDirTip": "Hittar alla ljudfiler i den markerade mappen och undermapparna",
+    "clearFile": "tom",
+
+    "sourcePath": "Ursprunglig sökväg",
+    "sourceSize": "Ursprunglig storlek",
+    "sourceBitRate": "Ursprunglig bithastighet",
+    "newPath": "Ny sökväg",
+    "newSize": "Ny storlek",
+    "newBitRate": "Ny bithastighet",
+    "status": "tillstånd",
+
+    "audioTip1": "Ju högre värde desto bättre ljudkvalitet, men också desto större volym",
+    "taskThreadsNumber": "Antal aktivitetstrådar",
+    "taskThreadsNumberTip": "Ju större antal aktivitetstrådar, desto mer CUP och minne förbrukas. Det rekommenderas att välja 1-3 för vanliga datorer",
+    "audioBitrate": "Ljudbithastighet",
+    "useSourceBitrate": "Använd källbithastighet",
+    "customBitrate": "Anpassad bithastighet",
+    "customMaxBitrate": "Anpassad maximal bithastighet",
+    "customBitrateTip1": "När den inte är inställd används källbitshastigheten.",
+    "customBitrateTip2": "Om den ursprungliga bithastigheten för ljud är lägre än den inställda bithastigheten används den ursprungliga bithastigheten för ljud",
+    "audioSampleRate": "Ljudprovningshastighet",
+    "useSourceSampleRate": "Använd källprovsfrekvens",
+    "audioChannel": "Ljudkanal",
+    "useSourceChannel": "Använda källkanalen",
+    "mono": "1-kanals mono",
+    "stereo": "2-kanals stereo",
+    "mustBeInt": "Måste vara ett heltal",
+    "outDir": "Ljudutgångskatalog",
+    "selectOutputDirTip": "Välj en utmatningskatalog",
+    "selectTip": "Välj",
+
+    "tip": "prompt",
+    "ok": "bekräfta",
+    "cancel": "avbryt",
+    "systemError": "Programfel"
+  },
+
+  "audioCompress": {
+    "tip": "Batch komprimerat ljud",
+
+    "compressSetting": "Komprimeringsinställningar",
+    "compressStart": "Starta komprimering",
+    "compressStop": "Stoppa komprimering",
+
+    "unCompress": "Komprimeras",
+    "compressIng": "I komprimering",
+    "compressSuccess": "framgång",
+    "compressFail": "misslyckas",
+    "compressOver": "Komprimering slutförd"
+  }
+}

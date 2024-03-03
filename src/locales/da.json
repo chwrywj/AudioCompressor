@@ -1,0 +1,67 @@
+{
+  "common": {
+    "title": "Digital verden: lydkomprimering",
+
+    "audioCut": "Lydklipning",
+    "audioMerge": "Lydflytning",
+    "audioCompress": "Lydkomprimering",
+    "audioFormatConversion": "Konvertering af lydformat",
+    "videoToAudio": "Video til lyd",
+    "language": "sprog",
+    "support": "teknisk støtte",
+    "donata": "donation",
+
+    "addFileTip": "Understøttede formater:",
+    "addAudioBtn": "Tilføj lyd",
+    "addDirBtn": "tilføj mapper",
+    "addDirTip": "Finder alle lydfiler i den valgte mappe og undermapper",
+    "clearFile": "tom",
+
+    "sourcePath": "Oprindelig sti",
+    "sourceSize": "Oprindelig størrelse",
+    "sourceBitRate": "Oprindelig bithastighed",
+    "newPath": "Ny sti",
+    "newSize": "Ny størrelse",
+    "newBitRate": "Ny bithastighed",
+    "status": "tilstand",
+
+    "audioTip1": "Jo højere værdi, jo bedre lydkvalitet, men også jo større lydstyrke",
+    "taskThreadsNumber": "Antal opgavetråde",
+    "taskThreadsNumberTip": "Jo større antallet af opgavetråde, jo mere CUP og hukommelse bruger det. Det anbefales at vælge 1-3 for almindelige computere",
+    "audioBitrate": "Lydbithastighed",
+    "useSourceBitrate": "Brug kildebithastighed",
+    "customBitrate": "Brugerdefineret bithastighed",
+    "customMaxBitrate": "Brugerdefineret maksimal bithastighed",
+    "customBitrateTip1": "Når den ikke er indstillet, vil kildebithastigheden blive brugt.",
+    "customBitrateTip2": "Hvis den oprindelige lydbithastighed er mindre end den indstillede bithastighed, vil den oprindelige lydbithastighed blive brugt",
+    "audioSampleRate": "Lyd samplingshastighed",
+    "useSourceSampleRate": "Brug kildeprøveudtagningshastighed",
+    "audioChannel": "Lydkanal",
+    "useSourceChannel": "Brug af kildekanalen",
+    "mono": "1-kanals mono",
+    "stereo": "2-kanals stereo",
+    "mustBeInt": "Må være et heltal",
+    "outDir": "Lydudgangsmappe",
+    "selectOutputDirTip": "Vælg en outputmappe",
+    "selectTip": "Vælg venligst",
+
+    "tip": "prompt",
+    "ok": "bekræft",
+    "cancel": "annullér",
+    "systemError": "Programfejl"
+  },
+
+  "audioCompress": {
+    "tip": "Batch komprimeret lyd",
+
+    "compressSetting": "Komprimeringsindstillinger",
+    "compressStart": "Start komprimering",
+    "compressStop": "Stop komprimering",
+
+    "unCompress": "Skal komprimeres",
+    "compressIng": "I komprimering",
+    "compressSuccess": "succes",
+    "compressFail": "mislykkes",
+    "compressOver": "Komprimering fuldført"
+  }
+}

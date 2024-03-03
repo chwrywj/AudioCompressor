@@ -1,0 +1,67 @@
+{
+  "common": {
+    "title": "Lumea digitală: compresia audio",
+
+    "audioCut": "Decupare audio",
+    "audioMerge": "Îmbinare audio",
+    "audioCompress": "Comprimare audio",
+    "audioFormatConversion": "Conversie format audio",
+    "videoToAudio": "Video în audio",
+    "language": "limba",
+    "support": "asistență tehnică",
+    "donata": "donație",
+
+    "addFileTip": "Formate acceptate:",
+    "addAudioBtn": "Adaugă audio",
+    "addDirBtn": "adaugă dosare",
+    "addDirTip": "Va găsi toate fișierele audio în folderul selectat și subfolderele selectate",
+    "clearFile": "gol",
+
+    "sourcePath": "Calea originală",
+    "sourceSize": "Dimensiunea originală",
+    "sourceBitRate": "Rata de biți originală",
+    "newPath": "Cale nouă",
+    "newSize": "Dimensiune nouă",
+    "newBitRate": "Rată de biți nouă",
+    "status": "starea",
+
+    "audioTip1": "Cu cât valoarea este mai mare, cu atât calitatea audio este mai bună, dar și volumul este mai mare",
+    "taskThreadsNumber": "Număr de fire de activități",
+    "taskThreadsNumberTip": "Cu cât numărul de fire de sarcini este mai mare, cu atât consumă mai multă CUP și memorie.",
+    "audioBitrate": "Bitrate audio",
+    "useSourceBitrate": "Utilizează rata de biți sursă",
+    "customBitrate": "Rată de biți personalizată",
+    "customMaxBitrate": "Rata maximă de biți personalizată",
+    "customBitrateTip1": "Când nu este setată, rata de biți sursă va fi utilizată.",
+    "customBitrateTip2": "Dacă rata de biți audio originală este mai mică decât rata de biți setată, va fi utilizată rata de biți audio originală",
+    "audioSampleRate": "Rata de eșantionare audio",
+    "useSourceSampleRate": "Utilizați rata de eșantionare a sursei",
+    "audioChannel": "Canalul audio",
+    "useSourceChannel": "Utilizarea canalului sursă",
+    "mono": "1 canal mono",
+    "stereo": "stereo cu 2 canale",
+    "mustBeInt": "Trebuie să fie un număr întreg",
+    "outDir": "Dosar de ieșire audio",
+    "selectOutputDirTip": "Selectați un dosar de ieșire",
+    "selectTip": "Vă rugăm să selectați",
+
+    "tip": "prompt",
+    "ok": "confirma",
+    "cancel": "anulează",
+    "systemError": "Eroare de program"
+  },
+
+  "audioCompress": {
+    "tip": "Sunet comprimat în serie",
+
+    "compressSetting": "Configurări de compresie",
+    "compressStart": "Pornește compresia",
+    "compressStop": "Oprește compresia",
+
+    "unCompress": "De comprimat",
+    "compressIng": "În compresie",
+    "compressSuccess": "succes",
+    "compressFail": "eșec",
+    "compressOver": "Comprimare finalizată"
+  }
+}
