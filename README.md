@@ -13,8 +13,22 @@ https://github.com/chwrywj/AudioCompress/releases
 ![](https://github.com/chwrywj/AudioCompress/blob/main/screenshot1.png)
 ![](https://github.com/chwrywj/AudioCompress/blob/main/screenshot2.png)
 
+# Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run electron:serve
+```
+
+### Compiles and minifies for production
+```
+npm run electron:build
+```
+
 # Related
 [ffmpeg](https://www.ffmpeg.org/)
 
 [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
-
